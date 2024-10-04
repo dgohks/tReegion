@@ -13,16 +13,16 @@ Saving the Earth, trees by trees. Powered by Solana.
 
 # Images
 - Contributing
-![welcome_menu](./image.png)
+![welcome_menu](./src/image.png)
 
-![main_menu](./image1.png)
+![main_menu](./src/image1.png)
 
-![contribution](./image2.png)
+![contribution](./src/image2.png)
 
-![payments](./image3.png)
+![payments](./src/image3.png)
 
 - Leaderboard
-![leaderboard](./leaderboard.png)
+![leaderboard](./src/leaderboard.png)
 
 - Profile
-![profile](./profile.png)
+![profile](./src/profile.png)
